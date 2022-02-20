@@ -14,7 +14,7 @@ The challenge of this exercise is to create new tables for the employees, depart
 
 ### Initial Review of Dataset:
 <!--UL-->
-* as a routine first step, a high-level inspection and review were done to get a sense of the source data regarding the dataset's number of columns and rows. This was done to understand the data types and to determine whether the data was readable or would need to be converted before progressing further with the analysis. Upon inspection of the dataset, it was determined that the files (Employees, department, department employee, department and title) were in csv format, which contained information stored in what appeared to be columns, separated by commas, with headings for employee number, first and last name, birthday, department number etc., which included, in the case of the employee dataset for example; more than 300,000 rows of data in 6 columns.  
+* As a routine first step, a high-level inspection and review were done to get a sense of the source data regarding the dataset's number of columns and rows. This was done to understand the data types and to determine whether the data was readable or would need to be converted before progressing further with the analysis. Upon inspection of the dataset, it was determined that the files (Employees, department, department employee, department and title) were in csv format, which contained information stored in what appeared to be columns, separated by commas, with headings for employee number, first and last name, birthday, department number etc., which included, in the case of the employee dataset for example; more than 300,000 rows of data in 6 columns.  
 
 <!--Links-->
 <!--UL-->
@@ -32,7 +32,7 @@ The challenge of this exercise is to create new tables for the employees, depart
 
 The ERD also help to show the flow of information between tables, as shown in the figure below:
 
-## Figure 1: Entity Relationship Diagram (ERD)
+#### Figure 1: Entity Relationship Diagram (ERD)
 ![Entity Relationship Diagram](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/Data/ERD.png)
  
 *  list of actions was written down. For example; Create a new table for retiring employees from Sales, open the data file, to create a new table to hold the information. Let's name it "retirement_titles, thus:
