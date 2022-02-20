@@ -32,7 +32,7 @@ The challenge of this exercise is to create a new tables for the employees, depa
 
 The ERD also help to show the flow of information between tables as shown in fiqure below:
 
-![Entity Relationship Diagram](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/ERD.png)
+![Entity Relationship Diagram](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/Data/ERD.png)
  
 *  list of actions was written down. For example; Create new table for retiring employees from Sales, to open the data file; to create a new table to hold the information. Let's name it "retirement_titles, thus:
 
@@ -122,13 +122,13 @@ The ERD also help to show the flow of information between tables as shown in fiq
  <!--Strong--> 
  <!--Images-->
 ### Results from queries:
-![retirement_titles](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/ERD.png)
+![retirement_titles](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/Queries/retirement_titles.png)
 
-![unique_titles](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/ERD.png)
+![unique_titles](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/Queries/unique_titles.png)
 
-![retiring_titles](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/ERD.png)
+![retiring_titles](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/Queries/retiring_titles.png)
 
-![mentorship_eligibilty](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/ERD.png)
+![mentorship_eligibilty](https://github.com/Brentnol/Pewlett-Hackard-Analysis-Challenge/blob/main/Queries/unique_titles.png)
 
   
  <!--OL--> 
